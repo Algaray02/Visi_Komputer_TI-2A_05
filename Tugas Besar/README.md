@@ -483,51 +483,6 @@ CORS(app)
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## ✍️ Authors
-
-**Computer Vision Team - SMT 3**
-- University: [Your University Name]
-- Course: Computer Vision (Visi Komputer)
-- Class: TI-2A
-
----
-
-## 📞 Contact & Support
-
-For questions, issues, or suggestions:
-- Open an [Issue](../../issues)
-- Create a [Discussion](../../discussions)
-- Contact: [your-email@example.com]
-
----
-
-## 🙏 Acknowledgments
-
-- Roboflow community for datasets
-- Ultralytics for YOLOv11 framework
-- Vercel for Next.js
-- Open source community contributions
-
----
-
 <div align="center">
 
 **Made with ❤️ for Motorcycle Safety**

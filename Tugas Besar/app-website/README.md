@@ -89,10 +89,6 @@ Open http://localhost:3000 di browser Anda
 
 ---
 
-## 🚀 Production Deployment
-
-For detailed deployment guide, see [DEPLOYMENT_GUIDE.md](../DEPLOYMENT_GUIDE.md)
-
 ### Quick Deploy Options
 
 1. **Vercel (Frontend)** - Best for Next.js
