@@ -15,7 +15,7 @@ DOWN_R, UP_R = 0.85, 1.00
 # Minimal frame konsisten sebelum ganti state
 SAMPLE_OK = 4
 
-url = "http://10.105.131.253:4747/videos" 
+url = "http://192.168.1.7:4747/videos" 
 cap = cv2.VideoCapture(url)
 if not cap.isOpened():
     raise RuntimeError("Kamera tidak bisa dibuka.")
