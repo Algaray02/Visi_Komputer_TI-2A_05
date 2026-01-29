@@ -6,19 +6,17 @@
 /Jobsheet 3/petfinder-pawpularity-score.zip
 /Tugas Besar/datasets
 /Tugas Besar/final
-/Tugas Besar/__pycache__
-/Tugas 5/__pycache__
+/Tugas 5/sam2.1_hiera_tiny.pt
+/Tugas 5/sam2.1_hiera_large.pt
+/Tugas Besar/yolo11n.pt
 
 # zip files
 *.zip
 *.rar
-*.txt
 *.7z
 *.tar
 *.tar.gz
+*.txt
 
-# Large model files (>100MB) - do NOT commit
+# Large model files (>100MB)
 *.pt
-sam2.1_hiera_tiny.pt
-sam2.1_hiera_large.pt
-yolo11n.pt
